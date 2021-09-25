@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an Eye screen Project and Domestic Patient Monitoring System**
 
-- 🌱 I’m currently learning **IOT**
+- 🌱 I’m currently learning **IOT and Bio-Signal Processing**
 
 - 📫 How to reach me **manjtiha456@gmail.com**
 
