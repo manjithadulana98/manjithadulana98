@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manjitha</h1>
 <h3 align="center">A passionate Biomedical Engineering Undergraduate from Sri Lanka</h3>
 
+- 🌱 I’m currently Reading a Degree from University of Moratuwa
+
 - 🔭 I’m currently working on **an Eye screen Project and Domestic Patient Monitoring System**
 
 - 🌱 I’m currently learning **IOT and Bio-Signal Processing**
 
 - 📫 How to reach me **manjtiha456@gmail.com  | 180330K@uom.lk**
 
-- ⚡ Fun fact **Batman is the Best**
+- ⚡ Fun fact **IRONMAN SUCKS!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
