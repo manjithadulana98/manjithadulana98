@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **IOT and Bio-Signal Processing**
 
-- 📫 How to reach me **manjtiha456@gmail.com ** | **180330K@uom.lk**
+- 📫 How to reach me **manjtiha456@gmail.com  | 180330K@uom.lk**
 
 - ⚡ Fun fact **Batman is the Best**
 
