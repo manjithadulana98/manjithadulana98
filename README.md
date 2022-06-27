@@ -35,4 +35,5 @@
 <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi" width="40" height="40"/> </a></p>
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=manjithadulana98)](https://github.com/manjithadulana98/github-contribution-stats/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjithadulana98)](https://github.com/manjithadulana98/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjithadulana98&layout=compact)](https://github.com/manjithadulana98/github-readme-stats)
