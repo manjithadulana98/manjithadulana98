@@ -35,6 +35,9 @@
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://nodered.org/" target="_blank"><img src="http://nodered.org/node-red-icon.png" alt="nodered" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/></a>
+  <a href="https://neo4j.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Neo4j-logo2024color.png" alt="neo4j" width="80" height="40"/></a>
+  <a href="https://spark.apache.org/mllib/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="mllib" width="80" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="40"/></a>
 </p>
 
 <h3 align="left">Designing (Hobby):</h3>
