@@ -63,3 +63,5 @@
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=manjithadulana98)](https://github.com/manjithadulana98/github-contribution-stats)
 
+![Contribution  stats](https://github-readme-stats.vercel.app/api?username=manjithadulana98&show_icons=true&theme=radical)
+
